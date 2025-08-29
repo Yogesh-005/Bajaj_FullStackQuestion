@@ -123,7 +123,7 @@ Health check endpoint that returns API status.
 
 ## Deployment
 
-### Railway (Recommended)
+### Railway 
 1. Go to [Railway.app](https://railway.app)
 2. Sign up with GitHub
 3. Click "New Project"
@@ -136,11 +136,6 @@ Health check endpoint that returns API status.
 npm install -g vercel
 vercel
 ```
-
-### Render
-1. Connect your GitHub repository to Render
-2. Set build command: `npm install`
-3. Set start command: `npm start`
 
 ## Environment Variables
 

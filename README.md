@@ -1,8 +1,8 @@
-# 🚀 BFHL REST API
+# BFHL REST API
 
 A production-ready REST API that processes arrays and returns categorized data including numbers, alphabets, special characters, and various calculations. Built for the BFHL Full Stack Assignment.
 
-## ✨ Features
+## Features
 
 - **POST /bfhl** - Main endpoint that processes input arrays
 - **Data Categorization** - Separates odd numbers, even numbers, alphabets, and special characters
@@ -13,7 +13,7 @@ A production-ready REST API that processes arrays and returns categorized data i
 - **Security** - CORS enabled and Helmet security middleware
 - **Testing Suite** - Automated tests for all example cases
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Node.js** - Runtime environment
 - **Express.js** - Web framework
@@ -21,7 +21,7 @@ A production-ready REST API that processes arrays and returns categorized data i
 - **Helmet** - Security middleware
 - **Axios** - HTTP client for testing
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (>=14.0.0)
@@ -56,7 +56,7 @@ npm test
 
 The server will start on `http://localhost:3000`
 
-## 📚 API Documentation
+## API Documentation
 
 ### POST /bfhl
 
@@ -89,7 +89,7 @@ Processes an array of data and returns categorized results.
 
 Health check endpoint that returns API status.
 
-## 🧪 Test Cases
+## Test Cases
 
 ### Example 1
 **Input:** `["a", "1", "334", "4", "R", "$"]`
@@ -121,7 +121,7 @@ Health check endpoint that returns API status.
 - Sum: `"0"`
 - Concatenated string: `"EoDdCbAa"`
 
-## 🌐 Deployment
+## Deployment
 
 ### Railway (Recommended)
 1. Go to [Railway.app](https://railway.app)
@@ -142,11 +142,11 @@ vercel
 2. Set build command: `npm install`
 3. Set start command: `npm start`
 
-## 🔧 Environment Variables
+## Environment Variables
 
 - `PORT` - Server port (default: 3000)
 
-## 🧪 Testing
+## Testing
 
 ### Automated Testing
 ```bash
@@ -163,7 +163,7 @@ curl -X POST http://localhost:3000/bfhl \
 ```
 - **Postman**: Import the collection and test endpoints
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Bajaj_FullStackQuestion/
@@ -177,7 +177,7 @@ Bajaj_FullStackQuestion/
 └── README.md             # This file
 ```
 
-## 🎯 Assignment Requirements
+## Assignment Requirements
 
 | Requirement | Status | Implementation |
 |-------------|--------|----------------|
@@ -195,19 +195,19 @@ Bajaj_FullStackQuestion/
 | Error handling | ✅ | Try-catch blocks and validation |
 | Best practices | ✅ | Clean code, security, documentation |
 
-## 👨‍💻 Author
+## Author
 
 **Yogesh Pugazhendhi**
 - Email: yogeshpugazhendhi@gmail.com
 - Roll Number: 22BPS1044
 - GitHub: [@Yogesh-005](https://github.com/Yogesh-005)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-**Live Demo**: [Deployed on Railway](https://your-railway-app-url.railway.app)
+**Live Demo**: [Deployed on Railway](https://your-actual-railway-url.railway.app)
 
-**API Endpoint**: `https://your-railway-app-url.railway.app/bfhl`
+**API Endpoint**: `https://your-actual-railway-url.railway.app/bfhl`

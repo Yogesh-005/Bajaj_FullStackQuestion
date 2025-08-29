@@ -203,6 +203,10 @@ This project is licensed under the MIT License.
 
 ---
 
-**Live Demo**: [Deployed on Railway](https://bajajfullstackquestion-production.up.railway.app)
+**Live Demo (Vercel)**: https://bajajfsq-g43q2ywzj-yogeshs-projects-cf922002.vercel.app
 
-**API Endpoint**: `https://bajajfullstackquestion-production.up.railway.app/bfhl`
+**API Endpoint (Vercel)**: `https://bajajfsq-g43q2ywzj-yogeshs-projects-cf922002.vercel.app/bfhl`
+
+**Live Demo (Railway)**: https://bajajfullstackquestion-production.up.railway.app
+
+**API Endpoint (Railway)**: `https://bajajfullstackquestion-production.up.railway.app/bfhl`

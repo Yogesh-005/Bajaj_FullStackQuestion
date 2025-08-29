@@ -126,3 +126,11 @@ build/Release
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local-only project files (not needed in repo)
+public/
+test.js
+quick-start.js
+DEPLOYMENT.md
+SUMMARY.md
+vercel.json

@@ -192,7 +192,7 @@ Bajaj_FullStackQuestion/
 
 ## Author
 
-**Yogesh Pugazhendhi**
+**Yogesh P**
 - Email: yogeshpugazhendhi@gmail.com, yogesh.p2022@vitstudent.ac.in
 - Roll Number: 22BPS1044
 - GitHub: [@Yogesh-005](https://github.com/Yogesh-005)

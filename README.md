@@ -208,6 +208,6 @@ This project is licensed under the MIT License.
 
 ---
 
-**Live Demo**: [Deployed on Railway](https://your-actual-railway-url.railway.app)
+**Live Demo**: [Deployed on Railway](https://bajajfullstackquestion-production.up.railway.app)
 
-**API Endpoint**: `https://your-actual-railway-url.railway.app/bfhl`
+**API Endpoint**: `https://bajajfullstackquestion-production.up.railway.app/bfhl`

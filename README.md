@@ -193,7 +193,7 @@ Bajaj_FullStackQuestion/
 ## Author
 
 **Yogesh Pugazhendhi**
-- Email: yogeshpugazhendhi@gmail.com
+- Email: yogeshpugazhendhi@gmail.com, yogesh.p2022@vitstudent.ac.in
 - Roll Number: 22BPS1044
 - GitHub: [@Yogesh-005](https://github.com/Yogesh-005)
 
@@ -203,10 +203,10 @@ This project is licensed under the MIT License.
 
 ---
 
-**Live Demo (Vercel)**: https://bajajfsq-g43q2ywzj-yogeshs-projects-cf922002.vercel.app
-
-**API Endpoint (Vercel)**: `https://bajajfsq-g43q2ywzj-yogeshs-projects-cf922002.vercel.app/bfhl`
-
 **Live Demo (Railway)**: https://bajajfullstackquestion-production.up.railway.app
 
 **API Endpoint (Railway)**: `https://bajajfullstackquestion-production.up.railway.app/bfhl`
+
+**Live Demo (Vercel)**: https://bajajfsq-g43q2ywzj-yogeshs-projects-cf922002.vercel.app
+
+**API Endpoint (Vercel)**: `https://bajajfsq-g43q2ywzj-yogeshs-projects-cf922002.vercel.app/bfhl`
